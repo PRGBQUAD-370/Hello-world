@@ -1,0 +1,1 @@
+X=MsgBox("Hello World!",0+64,"Vbs Hello World")
